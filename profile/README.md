@@ -3,3 +3,5 @@
 * [https://dimension.sh](https://dimension.sh)
 * [gopher://dimension.sh/1/](gopher://dimension.sh/1/)
 * [gemini://dimension.sh/](gemini://dimension.sh/)
+
+[![Liberapay logo](https://img.shields.io/liberapay/receives/dimension.sh.svg?logo=liberapay)](https://liberapay.com/dimension.sh/)
